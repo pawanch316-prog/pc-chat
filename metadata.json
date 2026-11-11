@@ -1,0 +1,8 @@
+{
+  "name": "PC CHAT",
+  "description": "Professional AI Chatbot powered by Gemini with modern dark theme, blue & cyan styling, and bilingual Hindi and English support.",
+  "requestFramePermissions": [
+    "MICROPHONE"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
